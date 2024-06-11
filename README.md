@@ -1,5 +1,5 @@
 👋 Hi, I'm Jack<br />
-Welcome to my GitHub page! I'm a passionate software developer and reverse engineer. Here's a bit about me:<br />
+Welcome to my GitHub page! I'm a passionate full-stack software developer and reverse engineer. Here's a bit about me:<br />
 <br />
 💻 About Me<br />
 Name: Jack Thompson<br />
