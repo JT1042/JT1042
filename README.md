@@ -16,7 +16,7 @@ Frameworks and Libraries: React, Express, Supabase, Postgres, React Native, Expo
 Feel free to reach out!<br />
 <br />
 Email: jjthompson@wpi.edu<br />
-LinkedIn: [Jack Thompson]](https://www.linkedin.com/in/jack-thompson-43375b258/)<br /><br /><br />
+LinkedIn: [Jack Thompson](https://www.linkedin.com/in/jack-thompson-43375b258/)<br /><br /><br />
 
 
 
