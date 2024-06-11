@@ -1,22 +1,22 @@
-👋 Hi, I'm Jack
-Welcome to my GitHub page! I'm a passionate software developer and reverse engineer. Here's a bit about me:
+👋 Hi, I'm Jack<br />
+Welcome to my GitHub page! I'm a passionate software developer and reverse engineer. Here's a bit about me:<br />
+<br />
+💻 About Me<br />
+Name: Jack Thompson<br />
+Studying: Computer Science @ WPI<br />
+Location: USA<br />
 
-💻 About Me
-Name: Jack Thompson
-Studying: Computer Science @ WPI
-Location: USA
+🔧 My Skills<br />
+Programming Languages: Python, C, C++, Bash, Java, TS, JS, HTML, CSS<br />
+Reverse Engineering Tools: Ghidra, IDA, EMBA, Frida<br />
+Development Tools: Git, Docker, Jira<br />
+Frameworks and Libraries: React, Express, Supabase, Postgres, React Native, Expo<br />
 
-🔧 My Skills
-Programming Languages: Python, C, C++, Bash, Java, TS, JS, HTML, CSS
-Reverse Engineering Tools: Ghidra, IDA, EMBA, Frida
-Development Tools: Git, Docker, Jira
-Frameworks and Libraries: React, Express, Supabase, Postgres, React Native, Expo
-
-📫 Get in Touch
-Feel free to reach out if you have any questions, want to collaborate, or just want to chat about technology!
-
-Email: jjthompson@wpi.edu
-LinkedIn: [Jack Thompson]](https://www.linkedin.com/in/jack-thompson-43375b258/)
+📫 Get in Touch<br />
+Feel free to reach out!<br />
+<br />
+Email: jjthompson@wpi.edu<br />
+LinkedIn: [Jack Thompson]](https://www.linkedin.com/in/jack-thompson-43375b258/)<br /><br /><br />
 
 
 
