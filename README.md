@@ -10,13 +10,7 @@ Location: USA<br />
 Programming Languages: Python, C, C++, Bash, Java, TS, JS, HTML, CSS<br />
 Reverse Engineering Tools: Ghidra, IDA, EMBA, Frida<br />
 Development Tools: Git, Docker, Jira<br />
-Frameworks and Libraries: React, Express, Supabase, Postgres, React Native, Expo<br />
-
-📫 Get in Touch<br />
-Feel free to reach out!<br />
-<br />
-Email: jjthompson@wpi.edu<br />
-LinkedIn: [Jack Thompson](https://www.linkedin.com/in/jack-thompson-43375b258/)<br /><br /><br />
+Frameworks and Libraries: React, Express, Supabase, Postgres, React Native, Expo<br /><br /><br />
 
 
 
